@@ -12,7 +12,7 @@ i enjoy learning new things, building small projects and turning curiosity into 
 
 <td width="40%" align="right">
 
-<img src="assets/clara.png" width="300"/>
+<img src=".jpg/clara.jpg" width="280">
 
 </td>
 </tr>
