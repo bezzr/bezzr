@@ -1,7 +1,4 @@
-## hii, i'm a soft dev in progress ♡
+˚ʚ♡ɞ˚ hi, i'm clara — a computer science student and soft dev in progress.
+currently working with administrative operations while growing my path in tech.
 
-computer science student 
-
-currently working in administrative operations
-
-learning tech one step at a time, building my future quietly ♡
+i enjoy learning new things, building small projects and turning curiosity into skills, one step at a time ♡
