@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bezzr/bezzr/77d5d81bb47ee50161e5c487a16b7bd87f48f1c8/banner.jpg" width="100%">
+</p>
+
+<h2 align="center">
+˚ʚ♡ɞ˚ hi, i'm clara — soft dev in progress ♡
+</h2>
+
+<br>
+
 <table>
 <tr>
 
@@ -14,6 +24,11 @@ i enjoy learning new things, building small projects and turning curiosity into 
 <td width="40%" align="right">
 
 <img src="https://raw.githubusercontent.com/bezzr/bezzr/8459d0d61a7e92ec690c9667caa17bf09248d13f/%20.jpg" width="280"/>
+
+</td>
+
+</tr>
+</table>
 
 </td>
 
