@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-˚ʚ♡ɞ˚ hi, i'm clara — soft dev in progress ♡
+˚₊‧ turning curiosity into code ‧₊˚
 </h2>
 
 <br>
