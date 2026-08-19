@@ -16,9 +16,13 @@
 ˚ʚ♡ɞ˚ <b>Sobre mim
 
 Estudando Ciência da Computação na Universidade Cruzeiro do Sul
+
 Atuo como Jovem Aprendiz Administrativo em uma unidade de saúde, conciliando rotina administrativa com meu crescimento em tech
+
 Foco em UX/UI Design, com habilidades crescentes em Front-end, Back-end e Python
+
 Gosto de construir pequenos projetos que unem design thinking e código
+
 Sempre aprendendo algo novo — um projeto de cada vez ♡
 
 </td>
