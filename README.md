@@ -13,11 +13,13 @@
 
 <td width="60%">
 
-˚ʚ♡ɞ˚ <b>hi, i'm clara — a computer science student and soft dev in progress.</b>
+˚ʚ♡ɞ˚ <b>Sobre mim
 
-currently working with administrative operations while growing my path in tech.
-
-i enjoy learning new things, building small projects and turning curiosity into skills, one step at a time ♡
+Estudando Ciência da Computação na Universidade Cruzeiro do Sul
+Atuo como Jovem Aprendiz Administrativo em uma unidade de saúde, conciliando rotina administrativa com meu crescimento em tech
+Foco em UX/UI Design, com habilidades crescentes em Front-end, Back-end e Python
+Gosto de construir pequenos projetos que unem design thinking e código
+Sempre aprendendo algo novo — um projeto de cada vez ♡
 
 </td>
 
